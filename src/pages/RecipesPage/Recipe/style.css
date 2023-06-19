@@ -1,0 +1,10 @@
+.recipe {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    margin: 3rem;
+}
+
+.recipe-image {
+    width: 300px;
+}
